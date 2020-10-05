@@ -179,7 +179,7 @@ export default {
     
     text-shadow: 3px 4px rgba(0, 0, 0, 0.5);
     border-radius: 10px;
-    width: 160px !important;
+    width: 240px !important;
     margin: auto;
   }
 
