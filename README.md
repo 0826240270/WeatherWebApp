@@ -19,6 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-
+### With error Https insert meta tag 
+```<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
